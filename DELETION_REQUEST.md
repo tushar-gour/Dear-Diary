@@ -4,10 +4,12 @@ title: Delete Your Data
 permalink: /deletion-request/
 ---
 
-# Delete Your Diary Data
+# Delete Your Dear Diary Data
 
-**Diary · Tushar Gour**  
+**Dear Diary: Personal Journal · Tushar Gour**
 Updated: **13 October 2026**
+
+Dear Diary: Personal Journal is referred to as “Diary” in the instructions below.
 
 **Diary has no online app accounts, and the developer does not hold a copy of your diary. You remove your diary data directly on your device. No email or deletion request is needed to do this.**
 
@@ -50,4 +52,3 @@ If you need general help with these steps, use the [public Diary inquiry page](h
 If your concern is information you voluntarily posted to this repository, use GitHub's edit/delete controls for your posts. A general inquiry can request help without repeating the information you want removed.
 
 [Privacy Policy](https://tushar-gour.github.io/Dear-Diary/privacy-policy/) · [Diary home](https://tushar-gour.github.io/Dear-Diary/)
-

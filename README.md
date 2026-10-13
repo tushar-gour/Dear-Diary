@@ -2,9 +2,9 @@
 
 <img src="assets/diary-icon.png" width="92" alt="Diary book icon">
 
-# Diary
+# Dear Diary: Personal Journal
 
-### A quiet place for your everyday.
+### A home for everything your heart holds.
 
 Little moments. Big feelings. Everything in between.
 
@@ -14,7 +14,7 @@ Little moments. Big feelings. Everything in between.
 
 </div>
 
-Diary is a personal diary for your thoughts, memories and everyday moments. A calm space to write, save and look back, at your own pace.
+Dear Diary: Personal Journal is a personal diary for your thoughts, memories and everyday moments. A calm space to write, save and look back, at your own pace.
 
 ### Make it yours
 
@@ -38,4 +38,4 @@ For a general privacy or deletion question, use the [Diary inquiry page](https:/
 
 ---
 
-<div align="center">Diary · Made by <strong>Tushar Gour</strong></div>
+<div align="center">Dear Diary: Personal Journal · Made by <strong>Tushar Gour</strong></div>

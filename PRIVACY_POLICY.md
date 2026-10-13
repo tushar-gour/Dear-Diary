@@ -6,10 +6,10 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-**Diary · Tushar Gour**  
+**Dear Diary: Personal Journal · Tushar Gour**
 Effective date: **13 October 2026**
 
-Diary is a personal diary app for Android. This policy describes how the current app handles your information and how you can remove it.
+Dear Diary: Personal Journal (referred to as “Diary” below) is a personal diary app for Android. This policy describes how the current app handles your information and how you can remove it.
 
 ## Your diary stays with you
 
@@ -60,5 +60,3 @@ The developer is **Tushar Gour**. For a general privacy inquiry, use the [Diary 
 This page will be updated if Diary's privacy practices change. The effective date identifies the current policy. Any future feature that needs additional permissions or consent must explain them before use.
 
 [Delete your data](https://tushar-gour.github.io/Dear-Diary/deletion-request/) · [Diary home](https://tushar-gour.github.io/Dear-Diary/)
-
-
