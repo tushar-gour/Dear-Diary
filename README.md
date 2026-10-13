@@ -32,7 +32,7 @@ Diary does not require an online app account. Read the policy for how your infor
 | Privacy | [Privacy Policy](PRIVACY_POLICY.md) |
 | Data removal | [Delete Your Diary Data](DELETION_REQUEST.md) |
 
-The public website is prepared for [GitHub Pages](https://tushar-gour.github.io/Dear-Diary/). Its hosted home, privacy and deletion links will become available after Pages is activated.
+Visit the [Diary website](https://tushar-gour.github.io/Dear-Diary/), read the [Privacy Policy](https://tushar-gour.github.io/Dear-Diary/privacy-policy/), or follow the [data deletion instructions](https://tushar-gour.github.io/Dear-Diary/deletion-request/).
 
 For a general privacy or deletion question, use the [Diary inquiry page](https://github.com/tushar-gour/Dear-Diary/issues/new?template=privacy-inquiry.yml). **GitHub issues are public. Never post diary content, recordings, backups, PINs or passphrases.** An inquiry does not remotely erase your diary.
 
