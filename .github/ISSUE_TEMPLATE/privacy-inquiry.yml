@@ -1,0 +1,23 @@
+name: Privacy or deletion guidance
+description: Ask a general question about Diary privacy or local deletion steps.
+title: "[Privacy] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is a PUBLIC issue. Do not share diary entries, recordings, screenshots containing private content, backups, PINs, passphrases, email addresses or other personal details.
+        Diary data stays on your device. This inquiry cannot remotely delete it. Read the deletion instructions first: https://tushar-gour.github.io/Dear-Diary/deletion-request/
+  - type: checkboxes
+    id: public_notice
+    attributes:
+      label: Public inquiry
+      options:
+        - label: I understand this issue is public and I will include only a general question.
+          required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: General question
+      description: Describe the step or policy wording you need help with, without private information.
+    validations:
+      required: true

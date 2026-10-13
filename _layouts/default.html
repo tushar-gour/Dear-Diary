@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description | escape }}">
+  <title>{{ page.title | default: site.title | escape }} · Diary</title>
+  <link rel="icon" href="{{ '/assets/diary-icon.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Diary home"><img src="{{ '/assets/diary-icon.png' | relative_url }}" alt="" width="42" height="42"><span>Diary</span></a>
+    <nav aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}" {% if page.permalink == '/' %}aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/privacy-policy/' | relative_url }}" {% if page.permalink == '/privacy-policy/' %}aria-current="page"{% endif %}>Privacy Policy</a>
+      <a href="{{ '/deletion-request/' | relative_url }}" {% if page.permalink == '/deletion-request/' %}aria-current="page"{% endif %}>Delete Your Data</a>
+    </nav>
+  </header>
+  <main id="main" class="{% if page.home %}home{% else %}policy{% endif %}">{{ content }}</main>
+  <footer class="site-footer"><a class="footer-brand" href="{{ '/' | relative_url }}">Diary</a><span>Made by Tushar Gour</span><div><a href="{{ '/privacy-policy/' | relative_url }}">Privacy</a><a href="{{ '/deletion-request/' | relative_url }}">Data deletion</a></div></footer>
+</body>
+</html>
