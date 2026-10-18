@@ -1,7 +1,7 @@
 title: "Dear Diary: Personal Journal"
 description: "A home for everything your heart holds. Dear Diary: Personal Journal by Tushar Gour."
-url: https://tushar-gour.github.io
-baseurl: /Dear-Diary
+url: "https://diary.tushargour.com"
+baseurl: ""
 markdown: kramdown
 exclude:
   - README.md
